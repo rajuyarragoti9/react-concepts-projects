@@ -1,0 +1,20 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background-color: #f7f7f7;
+  min-height: 100vh;
+}
+.user-card {
+  display: inline-block;
+  padding: 2rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-top: 2rem;
+}
+.user-card img {
+  border-radius: 50%;
+  width: 120px;
+  margin-bottom: 1rem;
+}
