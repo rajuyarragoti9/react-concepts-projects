@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-concepts-projects/useeffect-api-fetch/static/css/main.ee59174a.css",
+    "main.js": "/react-concepts-projects/useeffect-api-fetch/static/js/main.d88023ec.js",
+    "index.html": "/react-concepts-projects/useeffect-api-fetch/index.html",
+    "main.ee59174a.css.map": "/react-concepts-projects/useeffect-api-fetch/static/css/main.ee59174a.css.map",
+    "main.d88023ec.js.map": "/react-concepts-projects/useeffect-api-fetch/static/js/main.d88023ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee59174a.css",
+    "static/js/main.d88023ec.js"
+  ]
+}
