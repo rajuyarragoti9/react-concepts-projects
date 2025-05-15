@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-concepts-projects/focus-input-useref/static/css/main.05779c94.css",
+    "main.js": "/react-concepts-projects/focus-input-useref/static/js/main.d084cb6c.js",
+    "static/js/453.74fb225e.chunk.js": "/react-concepts-projects/focus-input-useref/static/js/453.74fb225e.chunk.js",
+    "index.html": "/react-concepts-projects/focus-input-useref/index.html",
+    "main.05779c94.css.map": "/react-concepts-projects/focus-input-useref/static/css/main.05779c94.css.map",
+    "main.d084cb6c.js.map": "/react-concepts-projects/focus-input-useref/static/js/main.d084cb6c.js.map",
+    "453.74fb225e.chunk.js.map": "/react-concepts-projects/focus-input-useref/static/js/453.74fb225e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05779c94.css",
+    "static/js/main.d084cb6c.js"
+  ]
+}
