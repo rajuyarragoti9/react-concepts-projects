@@ -1,0 +1,28 @@
+.App {
+  font-family: 'Segoe UI', sans-serif;
+  padding: 2rem;
+  text-align: center;
+  transition: background 0.3s, color 0.3s;
+  min-height: 100vh;
+}
+
+.light {
+  background-color: #f0f0f0;
+  color: #222;
+}
+
+.dark {
+  background-color: #222;
+  color: #f0f0f0;
+}
+
+.toggle-btn {
+  margin-top: 2rem;
+  padding: 0.6rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
