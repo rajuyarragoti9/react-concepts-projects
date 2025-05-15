@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-concepts-projects/factorial-calculator-usememo/static/css/main.083fac7f.css",
+    "main.js": "/react-concepts-projects/factorial-calculator-usememo/static/js/main.408a892e.js",
+    "static/js/453.24f26731.chunk.js": "/react-concepts-projects/factorial-calculator-usememo/static/js/453.24f26731.chunk.js",
+    "index.html": "/react-concepts-projects/factorial-calculator-usememo/index.html",
+    "main.083fac7f.css.map": "/react-concepts-projects/factorial-calculator-usememo/static/css/main.083fac7f.css.map",
+    "main.408a892e.js.map": "/react-concepts-projects/factorial-calculator-usememo/static/js/main.408a892e.js.map",
+    "453.24f26731.chunk.js.map": "/react-concepts-projects/factorial-calculator-usememo/static/js/453.24f26731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.083fac7f.css",
+    "static/js/main.408a892e.js"
+  ]
+}
