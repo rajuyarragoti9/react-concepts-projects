@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-concepts-projects/theme-context-switcher-usecontext/static/css/main.90280104.css",
+    "main.js": "/react-concepts-projects/theme-context-switcher-usecontext/static/js/main.f5da12bf.js",
+    "index.html": "/react-concepts-projects/theme-context-switcher-usecontext/index.html",
+    "main.90280104.css.map": "/react-concepts-projects/theme-context-switcher-usecontext/static/css/main.90280104.css.map",
+    "main.f5da12bf.js.map": "/react-concepts-projects/theme-context-switcher-usecontext/static/js/main.f5da12bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90280104.css",
+    "static/js/main.f5da12bf.js"
+  ]
+}
