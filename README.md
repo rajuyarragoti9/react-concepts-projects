@@ -14,6 +14,7 @@ This repository contains multiple small React projects demonstrating key React h
 | useContext            | `theme-context-switcher-usecontext` | [View Demo](https://rajuyarragoti9.github.io/react-concepts-projects/theme-context-switcher-usecontext/) | Theme switcher using useContext                |
 | useMemo               | `factorial-calculator-usememo`  | [View Demo](https://rajuyarragoti9.github.io/react-concepts-projects/factorial-calculator-usememo/) | Factorial calculator optimized with useMemo   |
 | useRef                | `focus-input-useref`             | [View Demo](https://rajuyarragoti9.github.io/react-concepts-projects/focus-input-useref/)        | Input focus control using useRef               |
+| Conditional Rendering      | `theme-toggle-app`                    | [View Demo](https://rajuyarragoti9.github.io/react-concepts-projects/theme-toggle-app/)                      | Theme toggle app with conditional rendering + optimizations |
 
 ---
 
